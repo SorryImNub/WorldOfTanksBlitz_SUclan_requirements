@@ -11,3 +11,8 @@
   display: inline-block;
   animation: shake 0.4s infinite;
 }
+
+.emoji-like {
+  width: 1.2em;
+  height: 1.2em;
+}
