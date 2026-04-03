@@ -17,3 +17,7 @@
   height: 1.2em;
   vertical-align: middle;
 }
+
+html {
+  scroll-behavior: smooth;
+}
